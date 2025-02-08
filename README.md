@@ -1,0 +1,1 @@
+Criei um simples programa para gerenciamento de tarefas utilizando Java. Ele permite ao usuário adicionar,remover,marcar tarefas como concluídas e visualizar tarefas pendentes e concluídas. O programa utiliza duas listas,uma para tarefas pendentes e outra para tarefas concluídas
